@@ -125,5 +125,3 @@ Users can select different quarters to dynamically analyze:
 - Payment mode distribution
 
 This makes the dashboard interactive and allows users to perform focused period-based analysis.
-
-    DISTINCTCOUNT('Sales'[Order ID])
