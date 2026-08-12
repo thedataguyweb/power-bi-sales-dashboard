@@ -10,7 +10,7 @@ The dashboard is designed to help business users quickly understand key sales me
 
 ### Dashboard Overview
 
-![Dashboard Overview](Dashboard Screenshots/dashboard.png)
+![Dashboard Overview](Screenshots/dashboard.png)
 
 ## 🎯 Project Objectives
 
@@ -87,7 +87,7 @@ This helps highlight high-value customers and understand customer-level sales co
 
 ### Sales Analysis
 
-![Sales Analysis](Dashboards Screenshots/dashboard quarterly sales analysis.png)
+![Sales Analysis](Screenshots/dashboard-quarterly-sales-analysis.png)
 
 ### 5. Quantity by Payment Mode
 
@@ -119,7 +119,7 @@ This can help identify:
 
 ### Product Analysis
 
-![Product Analysis](Dashboard Screenshots/dashboard sales analysis.png)
+![Product Analysis](Screenshots/dashboard-sales-analysis.png)
 
 ## 🎛️ Interactive Quarter Slicer
 
