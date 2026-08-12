@@ -126,7 +126,4 @@ Users can select different quarters to dynamically analyze:
 
 This makes the dashboard interactive and allows users to perform focused period-based analysis.
 
----
-
     DISTINCTCOUNT('Sales'[Order ID])
-)
