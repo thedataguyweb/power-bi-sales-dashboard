@@ -8,6 +8,10 @@ The dashboard is designed to help business users quickly understand key sales me
 
 ---
 
+### Dashboard Overview
+
+![Dashboard Overview](Dashboard Screenshots/dashboard.png)
+
 ## 🎯 Project Objectives
 
 The main objectives of this dashboard are to:
@@ -81,6 +85,10 @@ This helps highlight high-value customers and understand customer-level sales co
 
 ---
 
+### Sales Analysis
+
+![Sales Analysis](Dashboards Screenshots/dashboard quarterly sales analysis.png)
+
 ### 5. Quantity by Payment Mode
 
 A visualization displays the **quantity of products sold by payment mode**.
@@ -108,6 +116,10 @@ This can help identify:
 - Areas that may require further business analysis
 
 ---
+
+### Product Analysis
+
+![Product Analysis](Dashboard Screenshots/dashboard sales analysis.png)
 
 ## 🎛️ Interactive Quarter Slicer
 
